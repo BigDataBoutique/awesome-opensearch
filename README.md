@@ -45,7 +45,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 
 ## 😊 Managed Services
 * [AWS Opensearch Service](https://aws.amazon.com/opensearch-service/)
-* [Avien for Opensearch](https://aiven.io/opensearch)
+* [Aiven for Opensearch](https://aiven.io/opensearch)
 * [Bonsai - Fully Managed Elasticsearch and Opensearch](https://bonsai.io/)
 
 
