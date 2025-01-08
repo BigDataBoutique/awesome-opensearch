@@ -8,7 +8,6 @@ Hi and welcome to the awesome-opensearch - a community-led resource for Opensear
 Please star the repo and contribute if you have any brilliant additions. 🙏
 
 ## 🔗 Official Opensearch Links
-
 * [Opensearch Official Site](https://opensearch.org)
 * [Opensearch Documentation](https://opensearch.org/docs/latest)
 * [The Opensearch Blog](https://opensearch.org/blog/)
@@ -22,6 +21,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 * [Opensearch on Facebook](https://www.facebook.com/OpenSearchProject/)
 * [Download Opensearch](https://opensearch.org/downloads.html)
 
+
 ## 🤝 Conferences & Meetups
 
 * [OpensearchCon Europe 2025](https://events.linuxfoundation.org/opensearchcon-europe/) - 30 April – 1 May 2025 in Amsterdam, Netherlands
@@ -34,11 +34,19 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 
 
 ## 📂 Articles & Resources
+
 * [Guide to migrating data from Elasticsearch to Opensearch](https://bigdataboutique.com/blog/opensearch-data-migration-from-elasticsearch-the-guide-720536)
 * [How to optimize Opensearch costs (video)](https://bigdataboutique.com/blog/opensearch-cost-optimization-unlock-hidden-savings-afa6f9)
+* [Get started with ANN on OpenSearch](https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn)
+* [k-NN Index Documentation](https://opensearch.org/docs/latest/search-plugins/knn/knn-index)
+* [Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
+* [Choosing k-NN algorithm](https://aws.amazon.com/blogs/big-data/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch)
 
 
-## 🔌 Plugins
+## 😊 Managed Services
+* [AWS Opensearch Service](https://aws.amazon.com/opensearch-service/)
+* [Avien for Opensearch](https://aiven.io/opensearch)
+* [Bonsai - Fully Managed Elasticsearch and Opensearch](https://bonsai.io/)
 
 
 # 🙏 Rules for Contributing 
