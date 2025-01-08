@@ -3,7 +3,7 @@
 
 <img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px">
 
-Hi there and welcome to the awesome-opensearch. This is a community-led resource for Opensearch lovers everywhere. Here you can find a ton of useful links, resources, articles, tools, forums and more - all related to Opensearch. 
+Hi and welcome to the awesome-opensearch - a community-led resource for Opensearch lovers maintained by the team at [BigData Boutique](https://bigdataboutique.com/) - makers of [Pulse for Opensearch](https://pulse.support). This is a collection of useful links, resources, articles, tools, forums and more - all related to Opensearch. 
 
 Please star the repo and contribute if you have any brilliant additions. 🙏
 
