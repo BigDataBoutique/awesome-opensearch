@@ -30,7 +30,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 
 * [Pulse](https://pulse.support/): The Opensearch management platform that gives you real-time monitoring and proactive insights for optimal cluster health and performance
 * [Opensearch Migration Scripts](https://github.com/aparo/elasticsearch-opensearch-migration-scripts): Scripts useful to migrate code/plugins from ElasticSearch to OpenSearch
-* [Playgrounds]: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/), [OpenTelemetry](https://otel.playground.opensearch.org/)
+* Playgrounds: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/), [OpenTelemetry](https://otel.playground.opensearch.org/)
 
 
 ## 📂 Articles & Resources
