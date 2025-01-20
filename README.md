@@ -30,7 +30,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 
 * [Pulse](https://pulse.support/): The Opensearch management platform that gives you real-time monitoring and proactive insights for optimal cluster health and performance
 * [Opensearch Migration Scripts](https://github.com/aparo/elasticsearch-opensearch-migration-scripts): Scripts useful to migrate code/plugins from ElasticSearch to OpenSearch
-* [Playgrounds]: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/),[OTEL](https://otel.playground.opensearch.org/)
+* [Playgrounds]: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/), [OpenTelemetry](https://otel.playground.opensearch.org/)
 
 
 ## 📂 Articles & Resources
@@ -42,7 +42,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 * [The Opensearch Blog](https://opensearch.org/blog/)
   * [Opensearch Project Roadmap 2024-2025](https://opensearch.org/blog/opensearch-project-roadmap-2024-2025/)
 * [Amazon Opensearch Blogs](https://aws.amazon.com/blogs/big-data/category/analytics/amazon-elasticsearch-service/)
-  * [Amazon Opensearch H1 2023 in review](https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-h1-2023-in-review/
+  * [Amazon Opensearch H1 2023 in review](https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-h1-2023-in-review/)
   * [Amazon Opensearch H2 2023 in review](https://aws.amazon.com/blogs/big-data/amazon-opensearch-h2-2023-in-review/)
   * [Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
   * [Choosing the k-NN algorithm](https://aws.amazon.com/blogs/big-data/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch)
