@@ -50,7 +50,7 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
 ## 📚 Training and Tutorials
 * [The OpenSearch Project Video Library on YouTube](https://www.youtube.com/@OpenSearchProject/playlists)
 * [OpenSearch Tutorial for Data & Platform Engineers (Video, Free)](https://pulse.support/kb/opensearch-tutorial-data-platform-engineers)
-* [OpenSearch Training: ‘Think Like a Relevance Engineer’ – TLRE (Online, Paid)]https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/
+* [OpenSearch Training: ‘Think Like a Relevance Engineer’ – TLRE (Online, Paid)](https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/)
 
 ## 📂 Helpful Sections in the Documentation
 
