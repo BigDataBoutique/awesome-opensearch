@@ -47,6 +47,10 @@ Please star the repo and contribute if you have any brilliant additions. 🙏
   * [Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
   * [Choosing the k-NN algorithm](https://aws.amazon.com/blogs/big-data/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch)
 
+## 📚 Training and Tutorials
+* [The OpenSearch Project Video Library on YouTube](https://www.youtube.com/@OpenSearchProject/playlists)
+* [OpenSearch Tutorial for Data & Platform Engineers (Video, Free)](https://pulse.support/kb/opensearch-tutorial-data-platform-engineers)
+* [OpenSearch Training: ‘Think Like a Relevance Engineer’ – TLRE (Online, Paid)]https://opensourceconnections.com/training/opensearch-training-think-like-a-relevance-engineer-tlre/
 
 ## 📂 Helpful Sections in the Documentation
 
