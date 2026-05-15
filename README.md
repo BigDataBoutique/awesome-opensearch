@@ -439,7 +439,8 @@ _Columns: Title | Speakers | Conference | Summary_
 - [Pulse OpenSearch Tools for VS Code](https://pulse.support/tools/vscode-opensearch) — supercharge your OpenSearch dev workflow with autocomplete, linting, and integrated dashboards.
 - [OpenSearch Migration Scripts](https://github.com/aparo/elasticsearch-opensearch-migration-scripts): Scripts useful to migrate code/plugins from Elasticsearch to OpenSearch
 - Playgrounds: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/), [OpenTelemetry](https://otel.playground.opensearch.org/)
-
+- [esops-go](https://github.com/esops-dev/esops-go): kubectl like tool, but for SRE/OPS tasks of ElasticSearch/OpenSearch clusters. No need for using `curl | jq` commands.
+- [esops-doctor](https://github.com/esops-dev/esops-doctor): Diagnostic linter for Elasticsearch and OpenSearch clusters. Think kube-bench / kube-score, but for ElasticSearch/OpenSearch.
 ---
 
 ## 📂 Articles & Resources
