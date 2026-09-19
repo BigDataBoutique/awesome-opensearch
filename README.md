@@ -439,6 +439,7 @@ _Columns: Title | Speakers | Conference | Summary_
 - [Pulse OpenSearch Tools for VS Code](https://pulse.support/tools/vscode-opensearch) — supercharge your OpenSearch dev workflow with autocomplete, linting, and integrated dashboards.
 - [OpenSearch Migration Scripts](https://github.com/aparo/elasticsearch-opensearch-migration-scripts): Scripts useful to migrate code/plugins from Elasticsearch to OpenSearch
 - Playgrounds: [General](https://playground.opensearch.org/app/home), [ML](https://ml.playground.opensearch.org/), [OpenTelemetry](https://otel.playground.opensearch.org/)
+- [ComfortQuery](https://chromewebstore.google.com/detail/elasticsearch-tools/aombbfhbleaidjmbahldfbajjmgkgojl): A lightweight Chrome extension for OpenSearch and Elasticsearch that includes a visual query builder, REST client, cluster health dashboard, and live monitoring without Kibana.
 
 ---
 
